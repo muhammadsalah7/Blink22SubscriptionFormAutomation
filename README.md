@@ -30,7 +30,7 @@ This UI automation project validates the blog subscription form on the Blink22 w
 ## 🚀 Setup Instructions
 - Clone the Repository
 - Run the following commands in your terminal:
-- git clone https://github.com/muhammadsalah7/eSpaceAutomationTask.git
+- git clone https://github.com/muhammadsalah7/Blink22SubscriptionFormAutomation.git
 - cd eSpaceAutomationTask
 - Install Dependencies
 - Make sure Maven and JDK are installed on your system. Then run:
