@@ -46,7 +46,7 @@ Through the IDE:
 - Right-click the file and select Run
 - 
 Using TestNG Suite:
-You can also run the full suite using the testng.xml configuration file by executing:
+- You can also run the full suite using the testng.xml configuration file by executing:
 mvn test -DsuiteXmlFile=testng.xml
 
 ---
