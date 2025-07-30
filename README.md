@@ -17,7 +17,7 @@ This UI automation project validates the blog subscription form on the Blink22 w
 
 ---
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 - Java
 - Selenium WebDriver
 - TestNG
@@ -44,7 +44,7 @@ Through the IDE:
 - Open the project in IntelliJ IDEA, Eclipse, or any Java IDE
 - Navigate to BlogSubscriptionTest.java
 - Right-click the file and select Run
-- Using TestNG Suite:
+Using TestNG Suite:
 You can also run the full suite using the testng.xml configuration file by executing:
 mvn test -DsuiteXmlFile=testng.xml
 
