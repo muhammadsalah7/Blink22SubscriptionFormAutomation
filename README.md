@@ -23,7 +23,7 @@ This UI automation project validates the blog subscription form on the Blink22 w
 - TestNG
 - Maven (for build and dependency management)
 - Page Object Model (for clean architecture)
-- IntelliJ IDEA / Eclipse (any Java IDE)
+- IntelliJ IDEA 
 
 ---
 
